@@ -1,0 +1,24 @@
+h1{
+    color: #cc1010;
+    background-color: #14bfe6;
+    text-align: center;
+}
+h2{
+    color: #31f113;
+    background-color: #c210d2;
+}
+body{
+        background-image: url(./Img/ek.jpg);
+}
+img{
+   max-width: 200px;
+   max-height: 200px;
+}
+a{
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+p{
+    background-color: #ffffff;
+}
